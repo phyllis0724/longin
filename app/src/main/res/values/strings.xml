@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">longin</string>
+    <string name="btn_login">登入系統</string>
+</resources>
